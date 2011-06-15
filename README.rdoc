@@ -1,0 +1,8 @@
+=SoShell - Social Web Platform
+
+
+SoShell is an attempt to create a single web platform for all social submission based websites to run on. Our initial alpha build will be compatible with PHP 5.3+ and MySQL. We will be using the Fuel PHP framework to start with although our beta version will most likely run on a fork of Fuel PHP rather than the standard build. Ideally, we'd like our system to be the "Wordpress" for social websites.
+
+
+Started June 6. 
+
