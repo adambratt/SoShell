@@ -33,7 +33,7 @@ index/**/*
 Thumbs.db
 
 # Komodo
-.komodoproject
+*.komodoproject
 
 # NetBeans
 nbproject
